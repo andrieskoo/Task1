@@ -9,7 +9,7 @@ This is a simple console-based application for a watch shop. The application all
 -**Get total products price**: Display total watches price in shop  
 
 ## Requirements
-Java 8 or higher  
+Java 11 or higher  
 Maven  
 
 ## Getting Started
