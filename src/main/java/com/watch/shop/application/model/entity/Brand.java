@@ -1,4 +1,4 @@
-package org.example.model;
+package com.watch.shop.application.model.entity;
 
 public enum Brand {
     Rolex,
